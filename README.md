@@ -11,6 +11,8 @@ A functional language that compiles to JavaScript
 ## Machine Learning
 Machine learning provides computers with the ability to learn without being explicitly programmed.
 
+## Race Condition
+A race condition is an undesirable situation that occurs when a device or system attempts to perform two or more operations at the same time, but because of the nature of the device or system, the operations must be done in the proper sequence to be done correctly
 
 ## Redis
 
