@@ -10,3 +10,12 @@ A functional language that compiles to JavaScript
 
 ## Machine Learning
 Machine learning provides computers with the ability to learn without being explicitly programmed.
+
+
+## Redis
+
+Redis is an open source (BSD licensed), in-memory data structure store.
+
+- Usage: database, cache and message broker
+- Data structures: strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs and geospatial indexes with radius queries
+
