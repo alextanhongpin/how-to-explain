@@ -1,9 +1,12 @@
 # How to Explain
 Explaining programming concepts in laymen terms. 
 
-
 ## Big Data
 Big data is a term for data sets that are so large or complex that traditional data processing application software is inadequate to deal with them
+
+## Cap Theorem
+
+In theoretical computer science, the CAP theorem, also named Brewer's theorem after computer scientist Eric Brewer, states that it is impossible for a distributed computer system to simultaneously provide more than two out of three of the following guarantees: Consistency. Availability. Partition tolerance.
 
 ## Elm
 A functional language that compiles to JavaScript
@@ -21,3 +24,6 @@ Redis is an open source (BSD licensed), in-memory data structure store.
 - Usage: database, cache and message broker
 - Data structures: strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs and geospatial indexes with radius queries
 
+## Solidity
+
+Solidity is a contract-oriented, high-level language whose syntax is similar to that of JavaScript and it is designed to target the Ethereum Virtual Machine (EVM).
