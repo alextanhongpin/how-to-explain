@@ -24,6 +24,22 @@ Redis is an open source (BSD licensed), in-memory data structure store.
 - Usage: database, cache and message broker
 - Data structures: strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs and geospatial indexes with radius queries
 
+## Replication
+
+Copying an entire table or database onto multiple servers. Used for improving speed of access to reference records such as master data.
+
+## Partitioning
+
+Splitting up a large monolith database into multiple smaller database based on data cohesion. Example - splitting a large ERP database into smaller database like accounts database, sales database, material database etc.
+
+## Clustering
+
+Using multiple application servers to access the same datatabase. Used for computation intensive, parallelized, analytical applications that works on non-volatile data.
+
+## Sharding
+
+Splitting up a large table of data horizontally i.e.row-wise. A table containing 100s of millions of rows may be split into multiple tables containing 1 million rows each. Each of the tables resulting from the split will be placed into a separate database/server. Sharding is done to spread load and improve access speed. Facebook/Twitter tables fit into this category.
+
 ## Solidity
 
 Solidity is a contract-oriented, high-level language whose syntax is similar to that of JavaScript and it is designed to target the Ethereum Virtual Machine (EVM).
