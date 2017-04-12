@@ -1,6 +1,9 @@
 # How to Explain
 Explaining programming concepts in laymen terms. 
 
+## Apache Yarn
+Apache Hadoop YARN (Yet Another Resource Negotiator) is a cluster management technology. YARN is one of the key features in the second-generation Hadoop 2 version of the Apache Software Foundation's open source distributed processing framework.
+
 ## Big Data
 Big data is a term for data sets that are so large or complex that traditional data processing application software is inadequate to deal with them
 
@@ -18,6 +21,8 @@ Elasticsearch is a search engine based on Lucene. It provides a distributed, mul
 ## Elm
 A functional language that compiles to JavaScript
 
+## Hadoop
+Apache Hadoop is an open-source software framework used for distributed storage and processing of big data sets using the MapReduce programming model.
 
 ## Kafka
 
