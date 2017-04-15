@@ -87,3 +87,7 @@ Parallelism requires that at least two processes/tasks are actively being perfor
 
 ## Mock 
 (Related to testing) An object that is given orders to carry out a prescribed set of commands when it is called upon. This is analogous to the stand-in opponent during preparation for a political debate. The opponent would likely be a compaign team member, but she would have a set of answers already prepared to debate the candidate who needs to train for the big event.
+
+
+## Fixtures
+A test fixture is a fixed state of a set of objects used as a baseline for running tests. The purpose of a test fixture is to ensure that there is a well known and fixed environment in which tests are run so that results are repeatable
