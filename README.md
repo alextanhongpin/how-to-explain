@@ -64,3 +64,26 @@ Splitting up a large table of data horizontally i.e.row-wise. A table containing
 ## Solidity
 
 Solidity is a contract-oriented, high-level language whose syntax is similar to that of JavaScript and it is designed to target the Ethereum Virtual Machine (EVM).
+
+
+## Concurrency
+
+Concurrency is essentially when two tasks are being performed at the same time. This might mean that one is 'paused' for a short duration, while the other is being worked on. Importantly, a different task is begun before an ongoing task is completed. This makes it a multi-programming model.
+
+## Parallelism
+
+Parallelism requires that at least two processes/tasks are actively being performed at a particular moment in time. As illustrated by the metaphor above, this means that you require at least two 'processors' or 'workers'.
+
+## Dummy 
+
+(Related to testing) An object that does nothing except fill in space. Any calls that it receives will neither change anything nor record anything.
+
+## Stub
+
+(Related to testing) An object that can consume test behavior and generate some result. It is meant to provide precreated answers for the test. Stubs can be used for recording and analysis to determine the number of calls that are made. They typically require more work than dummies, and an abundance of classes need to be created.
+
+## Fake 
+(Related to testing) A fake object is a real object that overrides the more difficult stuff by providing a shortcut.
+
+## Mock 
+(Related to testing) An object that is given orders to carry out a prescribed set of commands when it is called upon. This is analogous to the stand-in opponent during preparation for a political debate. The opponent would likely be a compaign team member, but she would have a set of answers already prepared to debate the candidate who needs to train for the big event.
