@@ -1,0 +1,7 @@
+# What is the current authentication
+
+
+## What is the difference between Authentication and Authorization?
+
+Authentication is the process of verifying who you are. When you log on to a PC with a user name and password you are authenticating.
+Authorization is the process of verifying that you have access to something. Gaining access to a resource (e.g. directory on a hard disk) because the permissions configured on it allow you access is authorization.
